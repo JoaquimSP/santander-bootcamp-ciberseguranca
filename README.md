@@ -26,3 +26,5 @@
 ![Alt text](phishing-kali-linux/print-kali-linux.jpg "Optional title")
 
 # 🏆 Desafio 2
+
+Neste desafio de projeto, iremos implementar um Ransomware para criptografar arquivos utilizando a linguagem Python.
