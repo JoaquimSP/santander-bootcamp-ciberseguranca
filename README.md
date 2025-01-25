@@ -10,10 +10,10 @@ O bootcamp oferece uma formação em cibersegurança, capacitando os participant
 
 ### 📚 Conteúdos abordados
 
-✅ Fundamentos de Cibersegurança.
-✅ Testes de invasão e busca por vulnerabilidades.
-✅ Exploração de vulnerabilidades e ataques.
-✅ Uso de ferramentas como Kali Linux e Python para segurança cibernética.
+    ✅ Fundamentos de Cibersegurança.
+    ✅ Testes de invasão e busca por vulnerabilidades.
+    ✅ Exploração de vulnerabilidades e ataques.
+    ✅ Uso de ferramentas como Kali Linux e Python para segurança cibernética.
 
 Com foco prático, o bootcamp inclui desafios de código, projetos e estudos de casos para aplicar os conceitos aprendidos.
 
