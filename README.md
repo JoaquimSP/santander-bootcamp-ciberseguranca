@@ -1,30 +1,29 @@
-# santander-bootcamp-ciberseguranca
-🛡️ Repositório destinado ao conteúdo do Bootcamp Santander - Cibersegurança (DIO)
+# 🔐 Santander Bootcamp Cibersegurança #2
 
-# 🏆 Desafio 1
+![Logo do Bootcamp Santander](assets/img-santander-bootcamp.png "Logo do Bootcamp Santander")
 
-## 3 Phishing para captura de senhas do Facebook
+Este repositório contém materiais e anotações do Santander Bootcamp Cibersegurança #2, um programa que aborda os principais conceitos e práticas da segurança cibernética.
 
-### Ferramentas
+## ➡️ Sobre o Bootcamp
 
-- Kali Linux
-- setoolkit
+O bootcamp oferece uma formação em cibersegurança, capacitando os participantes a identificar, prevenir e mitigar ameaças digitais. Os conteúdos incluem desde os fundamentos da segurança da informação até técnicas avançadas de testes de invasão (Pentest) e exploração de vulnerabilidades.
 
-### Configurando o Phishing no Kali Linux
+### 📚 Conteúdos abordados
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+✅ Fundamentos de Cibersegurança.
+✅ Testes de invasão e busca por vulnerabilidades.
+✅ Exploração de vulnerabilidades e ataques.
+✅ Uso de ferramentas como Kali Linux e Python para segurança cibernética.
 
-### Resutados
+Com foco prático, o bootcamp inclui desafios de código, projetos e estudos de casos para aplicar os conceitos aprendidos.
 
-![Alt text](phishing-kali-linux/print-kali-linux.jpg "Optional title")
+### 🏆 Desafios do Bootcamp  
 
-# 🏆 Desafio 2
+📌 [Desafio 1 - Criação de um Phishing com o Kali Linux.](phishing-kali-linux/README.md)  
 
-Neste desafio de projeto, iremos implementar um Ransomware para criptografar arquivos utilizando a linguagem Python.
+📌 [Desafio 2 - Entendendo um ransomware na prática com python.](ransomware-python/README.md)  
+
+
+## 🎓 Certificado  
+
+![Ver Certificado](assets/certificado-joaquim.png)
